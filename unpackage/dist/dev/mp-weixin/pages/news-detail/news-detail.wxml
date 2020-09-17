@@ -1,0 +1,1 @@
+<view class="new_detail"><text class="title">{{detail.goods_name}}</text><view class="info"><text>{{"发表时间："+detail.upd_time}}</text><text>{{"浏览："+detail.goods_price}}</text></view><view class="content">{{''+detail.goods_name+''}}</view></view>

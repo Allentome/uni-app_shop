@@ -1,0 +1,1 @@
+<view class="contact"><view class="font_back"><view class="font">关于我们</view></view><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话：400-584-944-555（点击拨打）</view><view>联系地址：广东省深圳市龙岗区你找不到我</view></view><map class="map" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}"></map></view>
